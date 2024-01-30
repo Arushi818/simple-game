@@ -11,6 +11,6 @@ All the elements in this project are drawn, which I think is very interesting.
 
 # How To run
 1. Navigate to terminal
-2. Change the directory to the project directory
+2. Change the directory to the project directory and then to the simplegame folder, where the source code is located
 3. Compile and run the code using the command below:
--     python3 simplegame.py
+-     python3 game.py
