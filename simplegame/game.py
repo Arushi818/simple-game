@@ -45,7 +45,7 @@ def draw_instructions(image):
         "Move the paddle using the left and right arrow keys.",
         "Catch the falling ball.",
         "Press 'P' to pause or resume the game.",
-        "Hit escape key to quit the game."
+        "Hit the Q button to exit the game."
     ]
 
     for i, line in enumerate(instructions):
