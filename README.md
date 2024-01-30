@@ -13,4 +13,4 @@ All the elements in this project are drawn, which I think is very interesting.
 1. Navigate to terminal
 2. Change the directory to the project directory
 3. Compile and run the code using the command below:
--     python3 simplgame.py
+-     python3 simplegame.py
